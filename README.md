@@ -3,7 +3,7 @@
 NextLevel Food is a vibrant platform for food enthusiasts to share their favorite recipes, discover new dishes, and connect with other food lovers.
 
 ## Technologies Used
-- Next.js
+- Next.js (App Router)
 - React
 - CSS Modules
 
